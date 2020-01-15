@@ -1,4 +1,4 @@
-# basic-django-rest-api (Reference)
+# basic-django-rest-api
 
 ### Serializers
 ### Model Serializers
